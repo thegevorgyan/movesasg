@@ -2,3 +2,4 @@
 
 
 console.log("hey")
+hj("hey")
